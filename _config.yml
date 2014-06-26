@@ -1,0 +1,21 @@
+# Site settings
+title: "The Web Development Zone"
+tagline: "Learn how to create websites"
+email: mike@tallduck.com
+description: "The Web Development Zone is the go to resource for learning how to develop websites."
+baseurl: "/"
+url: "http://webdevelopment.zone"
+paginate: 5
+
+author:
+  name: "Mike George"
+  url: http://www.mikegeorge.org
+
+# Build settings
+markdown: redcarpet
+pygments: true
+
+permalink: pretty
+
+github:
+  repo: https://github.com/WebDevelopmentZone/WebDevelopmentZone.github.io
